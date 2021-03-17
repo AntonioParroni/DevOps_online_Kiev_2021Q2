@@ -1,0 +1,42 @@
+[ray@notebook DevOps_online_Kiev_2021Q2]$ git reflog
+5fcbc28 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+ec2a5b4 HEAD@{1}: checkout: moving from develop to main
+5fcbc28 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: checkout: moving from main to develop
+ec2a5b4 HEAD@{3}: checkout: moving from develop to main
+5fcbc28 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{4}: checkout: moving from main to develop
+ec2a5b4 HEAD@{5}: checkout: moving from develop to main
+5fcbc28 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{6}: checkout: moving from main to develop
+ec2a5b4 HEAD@{7}: checkout: moving from develop to main
+5fcbc28 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{8}: commit (merge): Merge branch 'styles' into develop
+9aa363a (origin/images, images) HEAD@{9}: merge images: Fast-forward
+91a2767 HEAD@{10}: checkout: moving from styles to develop
+9b5759f (origin/styles, styles) HEAD@{11}: commit: added styes to index.html
+9270515 HEAD@{12}: commit: added styles
+91a2767 HEAD@{13}: checkout: moving from develop to styles
+91a2767 HEAD@{14}: checkout: moving from images to develop
+9aa363a (origin/images, images) HEAD@{15}: commit: added images folder
+5aa58fc HEAD@{16}: commit: added images
+91a2767 HEAD@{17}: checkout: moving from develop to images
+:...skipping...
+5fcbc28 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+ec2a5b4 HEAD@{1}: checkout: moving from develop to main
+5fcbc28 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: checkout: moving from main to develop
+ec2a5b4 HEAD@{3}: checkout: moving from develop to main
+5fcbc28 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{4}: checkout: moving from main to develop
+ec2a5b4 HEAD@{5}: checkout: moving from develop to main
+5fcbc28 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{6}: checkout: moving from main to develop
+ec2a5b4 HEAD@{7}: checkout: moving from develop to main
+5fcbc28 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{8}: commit (merge): Merge branch 'styles' into develop
+9aa363a (origin/images, images) HEAD@{9}: merge images: Fast-forward
+91a2767 HEAD@{10}: checkout: moving from styles to develop
+9b5759f (origin/styles, styles) HEAD@{11}: commit: added styes to index.html
+9270515 HEAD@{12}: commit: added styles
+91a2767 HEAD@{13}: checkout: moving from develop to styles
+91a2767 HEAD@{14}: checkout: moving from images to develop
+9aa363a (origin/images, images) HEAD@{15}: commit: added images folder
+5aa58fc HEAD@{16}: commit: added images
+91a2767 HEAD@{17}: checkout: moving from develop to images
+91a2767 HEAD@{18}: commit: added index.html
+70a1118 HEAD@{19}: commit: add index.html
+ec2a5b4 HEAD@{20}: checkout: moving from main to develop
+ec2a5b4 HEAD@{21}: clone: from https://github.com/AntonioParroni/DevOps_online_Kiev_2021Q2.git
