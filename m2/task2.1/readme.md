@@ -33,6 +33,8 @@
 # 1.8 Export VM1. Save the *.ova file to disk. Import VM from *.ova file [1, ch.1.15].
  
  ![alt text](images/ovafile.png)
+ ![alt text](images/vmclonefromova.png)
+ 
 
  # 2.3 Configure a shared folder to exchange data between the virtual machine and the host [1, ch.4.3].
 
