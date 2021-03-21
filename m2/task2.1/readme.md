@@ -20,11 +20,11 @@
 
 # 1.5 Clone an existing VM1 by creating a VM2 [1, ch.1.14].
 
-![alt text](images/vmclone.png)
+![alt text](images/ociclone.png)
 
 # 1.6 Create a group of two VM: VM1, VM2 and learn the functions related to groups [1, ch.1.10].
 
-![alt text](images/vmclonefromova.png)
+![alt text](images/vmgroups.png)
 
 # 1.7 For VM1, changing its state, take several different snapshots, forming a branched tree of snapshots [1, ch.1.11].
 
