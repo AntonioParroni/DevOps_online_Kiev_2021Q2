@@ -62,7 +62,7 @@ I already have my own domain.
 
   ![alt text](images/bucketsite.png)
 
-  P.S. The content of my S3 bucket is still in progress..
+  P.S. The content of my S3 bucket is still in progress...
 
 
 
