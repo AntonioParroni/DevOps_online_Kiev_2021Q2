@@ -57,6 +57,9 @@ I already have my own domain.
  It should work...
  http://myexamplehosting.s3-website.eu-central-1.amazonaws.com/
 
+ Maybe it will work right now even with my own domain. 
+ http://www.antonioparroni.site/
+
   ![alt text](images/bucketsite.png)
 
   P.S. The content of my S3 bucket is still in progress..
