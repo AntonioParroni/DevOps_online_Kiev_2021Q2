@@ -69,10 +69,14 @@ I already have my own domain.
    ![alt text](images/truebacket.png)
 
    http://antonioparroni.site.s3-website.eu-central-1.amazonaws.com/
+   
    Or 
+   
    http://antonioparroni.site/
    
   P.S. The content of my S3 bucket is still in progress...
+  
+  UPD3: Still don't know how to make a redirect a valid redirect from www.antonioparroni.site 
 
 
 
