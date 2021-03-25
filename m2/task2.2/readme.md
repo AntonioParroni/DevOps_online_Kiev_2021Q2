@@ -76,7 +76,7 @@ I already have my own domain.
    
   P.S. The content of my S3 bucket is still in progress...
   
-  UPD3: Still don't know how to make a redirect a valid redirect from www.antonioparroni.site 
+  UPD3: Still don't know how to make a valid redirect from www.antonioparroni.site :(
 
 
 
