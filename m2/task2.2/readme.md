@@ -59,6 +59,8 @@ I already have my own domain.
 
  And maybe it could work right now even with my own domain. 
  http://www.antonioparroni.site/
+ 
+ UPD: Opps... it's not al right. Hold on, I'm fixing it!
 
   ![alt text](images/bucketsite.png)
 
