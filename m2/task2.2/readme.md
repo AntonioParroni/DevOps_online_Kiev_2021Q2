@@ -60,10 +60,18 @@ I already have my own domain.
  And maybe it could work right now even with my own domain. 
  http://www.antonioparroni.site/
  
+   ![alt text](images/bucketsite.png)
+ 
  UPD: Opps... it's not al right. Hold on, I'm fixing it!
 
-  ![alt text](images/bucketsite.png)
+ UPD2: Huh.. it works! 
+ 
+   ![alt text](images/truebacket.png)
 
+   http://antonioparroni.site.s3-website.eu-central-1.amazonaws.com/
+   Or 
+   http://antonioparroni.site/
+   
   P.S. The content of my S3 bucket is still in progress...
 
 
