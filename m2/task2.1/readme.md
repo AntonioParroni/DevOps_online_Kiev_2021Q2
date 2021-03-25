@@ -66,3 +66,5 @@
  # 8. Create your own Vagrant box [7]
 
  ![alt text](images/myownbox.png)
+ 
+ P.S. I hope that, sooner, I will my hands on vagrant configuration file.. 
