@@ -36,6 +36,9 @@ I am sorry. Can't remember now why I didn't do that.
  # 11. Review the 10-minute example Store and Retrieve a File. Repeat, creating your own repository..
 
  ![alt text](images/awsbucket.png)
+ 
+  ![alt text](images/repo.png)
+
 
 # 12. Review the 10-minute example Batch upload files to the cloud to Amazon S3 using the AWS CLI. Create a user AWS IAM, configure CLI AWS and upload any files to S3..
 
