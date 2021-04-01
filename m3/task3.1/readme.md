@@ -197,33 +197,47 @@ GO
 
 # 12. Restore your database.
 
-
+![alt text](images/back1.png)
 
 # 13. Transfer your local database to RDS AWS.
 
-
+```
+docker cp sql1:/backup/test.bak /home/ray/Desktop/backup
+```
 
 # 14. Connect to your database.
 
+![alt text](images/AAAAA.png)
 
+OMG! Finally I fugured it out. It was all about VPC security policy.. Jesus.. it took me quite a bit :(
+
+![alt text](images/twodays.jpg)
 
 # 15. Execute SELECT operator similar step 6.
 
+![alt text](images/sampledb.png)
 
+![alt text](images/save.png)
 
 # 16. Create the dump of your database.
 
+![alt text](images/snapshot.png)
 
+PS. Will try later to understand how to dump it on a AWS Bucket. A little bit confused with IAM policy and RDS association to it.
 
+![alt text](images/backupbad.png)
 
 ## PART 3
 
 # 17. Create an Amazon DynamoDB table.
 
-
+![alt text](images/dynamodb.png)
 
 # 18. Enter data into an Amazon DynamoDB table.
 
-
+![alt text](images/dynamodb2.png)
 
 # 19. Query an Amazon DynamoDB table using Query and Scan.
+
+![alt text](images/dynamodb3.png)
+PS. It's not a right schema. Am I right ? 
