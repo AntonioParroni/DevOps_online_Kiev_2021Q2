@@ -204,6 +204,12 @@ GO
 ```
 docker cp sql1:/backup/test.bak /home/ray/Desktop/backup
 ```
+- Create database by restoring from S3
+
+NOOO. Can't restore my MS SQL DB with this simple window. 
+Only MySQL.. eh..
+
+![alt text](images/nooo.png)
 
 # 14. Connect to your database.
 
@@ -225,6 +231,8 @@ OMG! Finally I fugured it out. It was all about VPC security policy.. Jesus.. it
 
 PS. Will try later to understand how to dump it on a AWS Bucket. A little bit confused with IAM policy and RDS association to it.
 
+UPD. Hmmm.. The solution is probably somewhere here https://www.mssqltips.com/sqlservertip/5970/restore-sql-server-database-backup-to-an-aws-rds-instance-of-sql-server/
+
 ![alt text](images/backupbad.png)
 
 ## PART 3
@@ -240,4 +248,5 @@ PS. Will try later to understand how to dump it on a AWS Bucket. A little bit co
 # 19. Query an Amazon DynamoDB table using Query and Scan.
 
 ![alt text](images/dynamodb3.png)
+
 PS. It's not a right schema. Am I right ? 
