@@ -1,1 +1,11 @@
-# DevOps_online_Kiev_2021Q2
+## Module - Networking Fundamentals TASK 4.3
+
+
+# Завдання: Побудувати локальну мережу, що складається з сегмента на основі комутатора з 5 комп'ютерів і сервера. Комутатор з'єднаний з маршрутизатором, до якого також підключений сервер. Необхідно задати статичні IP адреси мережних інтерфейсів маршрутизаторів, локальних комп'ютерів і серверів. Налаштувати маршрутизацію по протоколу RIP.
+
+i followed the guide and everything works fine.
+
+![alt text](images/1.png)
+![alt text](images/2.png)
+
+Saved in projectSaves/first.pkt
