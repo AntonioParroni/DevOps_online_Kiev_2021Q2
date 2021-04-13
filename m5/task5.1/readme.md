@@ -91,14 +91,17 @@ We've been studying some basic Linux users administration and managment tools.
 
 # 5) Perform the following sequence of operations:
 - create a subdirectory in the home directory;
-- in this subdirectory create a file containing information about directories
-located in the root directory (using I/O redirection operations);
+![alt text](images/23.png) 
+- in this subdirectory create a file containing information about directories located in the root directory (using I/O redirection operations);
+![alt text](images/24.png) 
 - view the created file;
-- copy the created file to your home directory using relative and absolute
-addressing.
+![alt text](images/25.png) 
+- copy the created file to your home directory using relative and absolute addressing.
+![alt text](images/26.png) 
 - delete the previously created subdirectory with the file requesting removal;
+![alt text](images/27.png) 
 - delete the file copied to the home directory.
-
+![alt text](images/28.png) 
 
 
 # 6) Perform the following sequence of operations:
