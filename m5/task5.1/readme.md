@@ -70,19 +70,24 @@ We've been studying some basic Linux users administration and managment tools.
 ## Task1.Part2
 # 1) Examine the tree command. Master the technique of applying a template, for example, display all files that contain a character c, or files that contain a specific sequence of characters. List subdirectories of the root directory up to and including the second nesting level.
 
-
+![alt text](images/17.png) 
+- Display all files that contain a character c
+![alt text](images/18.png) 
+- List subdirectories of the root directory up to and including the second nesting level.
+![alt text](images/19.png) 
 
 # 2) What command can be used to determine the type of file (for example, text or binary)? Give an example.
 
+![alt text](images/20.png) 
 
 
 # 3) Master the skills of navigating the file system using relative and absolute paths. How can you go back to your home directory from anywhere in the filesystem?
 
-
+![alt text](images/21.png) 
 
 # 4) Become familiar with the various options for the ls command. Give examples of listing directories using different keys. Explain the information displayed on the terminal using the -l and -a switches.
 
-
+![alt text](images/22.png) 
 
 # 5) Perform the following sequence of operations:
 - create a subdirectory in the home directory;
