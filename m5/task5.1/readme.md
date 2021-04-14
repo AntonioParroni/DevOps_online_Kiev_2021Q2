@@ -108,47 +108,72 @@ We've been studying some basic Linux users administration and managment tools.
 - create a subdirectory test in the home directory;
 - copy the .bash_history file to this directory while changing its name to
 labwork2;
+![alt text](images/29.png)
 - create a hard and soft link to the labwork2 file in the test subdirectory;
+![alt text](images/30.png)
 - how to define soft and hard link, what do these
 concepts;
-- change the data by opening a symbolic link. What changes will happen and
-why
+![alt text](images/31.png)
+``` ln ``` LiNk command by default is making a hard link, while with ```-s``` or ```--symbolic``` flag is making a soft link. 
+- change the data by opening a symbolic link. What changes will happen and why
+![alt text](images/32.png)
+The content of the soft-link pointed file has also changed. 
 - rename the hard link file to hard_lnk_labwork2;
+![alt text](images/33.png)
 - rename the soft link file to symb_lnk_labwork2 file;
+![alt text](images/33.png)
 - then delete the labwork2. What changes have occurred and why?
-
-
+![alt text](images/34.png)
+The symb link has lost it's reference file. So now it's empty. While hard link file is untouched.
 
 # 7) Using the locate utility, find all files that contain the squid and traceroute sequence.
 
-
+![alt text](images/35.png)
 
 # 8) Determine which partitions are mounted in the system, as well as the types of these partitions.
 
-
+![alt text](images/36.png)
 
 # 9) Count the number of lines containing a given sequence of characters in a given file.
 
-
+![alt text](images/37.png)
 
 # 10) Using the find command, find all files in the /etc directory containing the host character sequence.
 
-
+![alt text](images/38.png)
 
 # 11) List all objects in /etc that contain the ss character sequence. How can I duplicate a similar command using a bunch of grep?
 
-
+![alt text](images/39.png)
 
 # 12) Organize a screen-by-screen print of the contents of the /etc directory. Hint: You must use stream redirection operations.
 
-
+![alt text](images/40.png)
 
 # 13) What are the types of devices and how to determine the type of device? Give examples.
 
+There are: Character Device, Block Device, Pipe Device and a Socket Device. 
+And they are the virtual representation inside the UNIX systems of real PC's objects. 
+The most easiest way to determine is done with command ``` ls -l``` 
+It will output as a first character the files type. 
 
+![alt text](images/41.png)
 
 # 14) How to determine the type of file in the system, what types of files are there?
 
+``` ls -l``` 
+- Normal - 
+- Directories d 
+- Hard Links - 
+- Soft Links l 
+- Sockets s 
+- Pipes p 
+- Character devices c 
+- Block devices b 
 
+We can also say, that there are only three type of files. 
+Text files, Binary files, and Executables.
 
 # 15) * List the first 5 directory files that were recently accessed in the /etc directory.
+
+![alt text](images/42.png)
