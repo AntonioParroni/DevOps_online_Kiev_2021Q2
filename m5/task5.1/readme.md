@@ -133,6 +133,7 @@ The symb link has lost it's reference file. So now it's empty. While hard link f
 # 8) Determine which partitions are mounted in the system, as well as the types of these partitions.
 
 ![alt text](images/36.png)
+``` mount ``` ? 
 
 # 9) Count the number of lines containing a given sequence of characters in a given file.
 
