@@ -4,7 +4,10 @@
 # 1) Analyze the structure of the /etc/passwd and /etc/group file, what fields are present in it, what users exist on the system? Specify several pseudo-users, how to define them?
 In passwd, we can see the default users shell.
 ![alt text](images/1.png)
+
+
 And in group, we can see the group unique ID.
+
 ![alt text](images/2.png)
 
 # 2) What are the uid ranges? What is UID? How to define it?
