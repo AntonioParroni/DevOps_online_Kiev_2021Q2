@@ -32,6 +32,7 @@ Ray is my user name. And my GID is also 1000.
 
 # 4) How to determine belonging of user to the specific group?
 With ``` group ``` command.
+
 ![alt text](images/4.png)
 
 # 5) What are the commands for adding a user to the system? What are the basic parameters required to create a user?
