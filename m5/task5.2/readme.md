@@ -2,26 +2,28 @@
 
 ## Task assignment.
 # 1) Analyze the structure of the /etc/passwd and /etc/group file, what fields are present in it, what users exist on the system? Specify several pseudo-users, how to define them?
-
+In passwd, we can see the default users shell.
 ![alt text](images/1.png)
-
+And in group, we can see the group unique ID.
 ![alt text](images/2.png)
 
 # 2) What are the uid ranges? What is UID? How to define it?
 UID range is in a range between 0 and 65535 (or better 2^16)
-UID stands for user identifaction.
+UID stands for user identification.
 The common table is: 
 - 0 -> root
 - 1-999 -> daemons 
 - 1000+ -> users
 
-
 ![alt text](images/3.png)
+
 Ray is my user name. And my UID is 1000.
 
 # 3) What is GID? How to define it?
+
 Group IDentifier.
 ![alt text](images/3.png)
+
 Ray is my user name. And my GID is also 1000.
 
 # 4) How to determine belonging of user to the specific group?
