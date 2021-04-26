@@ -2,22 +2,31 @@ TASK5.3
 Part1
 # 1. How many states could has a process in Linux?
 
-
+5
+- R -> Running 
+- S -> Sleeping, Interruptible 
+- D -> Sleeping, Uninterruptible 
+- T -> Stopped.
+- Z -> Zombie
 
 # 2. Examine the pstree command. Make output (highlight) the chain (ancestors) of the current process.
 
-
+![alt text](images/1.png)
 
 # 3. What is a proc file system?
 
-
+It is a special directory in UNIX system. Where system users and programms can have access to all sort of information related to computer and core state.  
+It is also a virtual folder which is generated on fly. 
+This approach in reciving and managing information in UNIX systems is born from main UNIX concept. Where everything is a file. 
 
 # 4. Print information about the processor (its type, supported technologies, etc.).
 
+![alt text](images/2.png)
 
 
 # 5. Use the ps command to get information about the process. The information should be as follows: the owner of the process, the arguments with which the process was launched for execution, the group owner of this process, etc.
 
+![alt text](images/3.png)
 
 
 # 6. How to define kernel processes and user processes?

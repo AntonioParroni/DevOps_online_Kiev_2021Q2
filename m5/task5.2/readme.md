@@ -81,6 +81,7 @@ rwx
 ![alt text](images/8.png)
 
 # 15) What is an example of octal representation of access rights? Describe the umask command.
+
 UGO 
 - USER
 - GROUP
@@ -90,8 +91,6 @@ UGO
 - (4+2+1 or rwx) for user
 - (4+2+1 or rwx) for groups
 - (4+2+1 or rwx) for others
-
-
 
 # 16) Give definitions of sticky bits and mechanism of identifier substitution. Give an example of files and directories with these attributes.
 
