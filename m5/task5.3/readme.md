@@ -113,10 +113,34 @@ I also used scp copy many times before.
 
 # 3. List the options for choosing keys for encryption in SSH. Implement 3 of them.
 
+``` -t ```
+We can choose one of the following encryption methods
+- RSA (by default)
+- ECDSA
+- Ed25519
+- DSA
+
+``` -C ``` 
+Comment 
+
+``` -b ```
+Bits to be presented in the key 
+3072
+
+![alt text](images/14.png)
 
 
 # 4. Implement port forwarding for the SSH client from the host machine to the guest Linux virtual machine behind NAT.
 
 
+![alt text](images/15.png)
+
+![alt text](images/16.png)
+
+![alt text](images/17.png)
 
 # 5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the server using ssh, telnet, rlogin. Analyze the result.
+
+![alt text](images/18.png)
+
+Destination Port 2022 (My Forwarded Port)
